@@ -1,8 +1,0 @@
-{
-    "gemini_api_key": "AIzaSyAzagvE88fteqpkEBTK3je1Zw4Qmt3BCik",
-    "deepseek_api_key": "sk-cc6d3f9b86f3436aaa20b8c5834f09b5",
-    "deepseek_base_url": "https://api.deepseek.com",
-    "qwen_api_key": "sk-ab9623211fe94ed294f444735fd21d2c",
-    "qwen_base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
-    "serp_api_key": "f60582f67647bbff9e67ca7a97562de3691c81fef76a5fd2d826c2b53a885356"
-}
